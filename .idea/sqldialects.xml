@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/INSERT.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/QUERY.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/SETUP.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/UPDATE.sql" dialect="TSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/cba78178-a2ad-4e7b-86b0-9cc4e362b96f/console_8.sql" dialect="TSQL" />
+  </component>
+</project>
