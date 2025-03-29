@@ -40,5 +40,9 @@ CREATE TABLE Schedule (
     auditorium_id INT FOREIGN KEY REFERENCES Auditoriums(id) ON DELETE CASCADE
 );
 
+ALTER TABLE Schedule
+ALTER COLUMN day_of_week NVARCHAR(15);
+
+
 -- Зміна структури (наприклад, додавання нового стовпця)
 ALTER TABLE Teachers ADD phone_number VARCHAR(20) NULL;
